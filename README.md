@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi there, I'm Gurbani Kaur!
 
-<!--
-**KaurGurbani/KaurGurbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A third-year Information Technology student at Manipal University Jaipur  
+💡 Passionate about problem-solving, open-source, and building real-world tech solutions  
+🌍 Open to remote roles, internships, and collaborations  
+📫 Reach me at: [gurbanikaur1702@gmail.com](mailto:gurbanikaur1702@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Languages**: PHP, JavaScript, Python, HTML, CSS, SQL, MySQL  
+- **Frameworks & Tools**: WordPress, GitHub, Figma, Excel Automation  
+- **Others**: UI/UX Design, CMS Tools, Technical Documentation, Responsive Design
+
+---
+
+## 🧠 Projects & Case Studies
+
+### 🔹 [Smart Resume System](#)
+- Built an intelligent resume parsing platform to reduce manual processing by 40%
+- Tech: Python, JavaScript, SQL, Excel Automation
+
+### 🔹 [UI/UX Case Study: Laundry & Ironing Service Gaps](#)
+- Conducted field-based UX research & prototyped user-centric solutions in Figma
+- Solved daily utility access challenges in Tier 1 & 2 cities
+
+---
+
+## 💼 Experience
+
+- **Web Development Intern**, CNARD Project – ACNA Research (Remote)  
+  Worked on front-end/back-end features for real-world research ecosystem
+
+- **SQL Intern**, Celebal Technologies (Remote)  
+  Optimized SQL queries for enterprise-scale datasets
+
+- **Python Research Intern**, GSI Helmholtz Center, Germany  
+  Created a 3D simulation tool & optimized performance
+
+- **Exchange Administrator**, IAESTE India  
+  Coordinated student exchanges with 80+ countries and automated workflows
+
+---
+
+## 🌱 Currently Working On
+
+- Submitting meaningful Pull Requests for open-source projects  
+- Exploring WordPress development & CMS tools deeply  
+- Improving back-end logic with real-time systems & scalable architecture
+
+---
+
+## 🧰 GitHub Stats
+
+![Gurbani's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaurGurbani&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gurbani-kaur-5a6788264/)
+- 🧑‍💻 [GitHub](https://github.com/KaurGurbani)
+- 📧 [Email](mailto:gurbanikaur1702@gmail.com)
+
+---
+
+_✨ Always learning, always building._
