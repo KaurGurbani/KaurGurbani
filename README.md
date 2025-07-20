@@ -10,7 +10,7 @@
 ## 🚀 Tech Stack
 
 - **Languages**: PHP, JavaScript, Python, HTML, CSS, SQL, MySQL  
-- **Frameworks & Tools**: WordPress, GitHub, Figma, Excel Automation  
+- **Frameworks & Tools**: WordPress, GitHub, Figma, Excel Automation, Machine Learning 
 - **Others**: UI/UX Design, CMS Tools, Technical Documentation, Responsive Design
 
 ---
