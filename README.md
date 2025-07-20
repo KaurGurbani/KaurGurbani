@@ -2,7 +2,7 @@
 
 🎓 A third-year Information Technology student at Manipal University Jaipur  
 💡 Passionate about problem-solving, open-source, and building real-world tech solutions  
-🌍 Open to remote roles, internships, and collaborations  
+🌍 Open to both remote & conventional roles, internships, and collaborations  
 📫 Reach me at: [gurbanikaur1702@gmail.com](mailto:gurbanikaur1702@gmail.com)
 
 ---
