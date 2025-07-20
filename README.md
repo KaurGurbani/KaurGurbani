@@ -53,8 +53,7 @@
 
 ## 🧰 GitHub Stats
 
-![Gurbani's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaurGurbani&show_icons=true&theme=radical)
-
+<!-- GitHub stats section hidden for now while I actively contribute to open-source! -->
 ---
 
 ## 🌐 Let's Connect
