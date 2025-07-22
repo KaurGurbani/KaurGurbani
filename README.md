@@ -51,10 +51,6 @@
 
 ---
 
-## 🧰 GitHub Stats
-
-<!-- GitHub stats section hidden for now while I actively contribute to open-source! -->
----
 
 ## 🌐 Let's Connect
 
